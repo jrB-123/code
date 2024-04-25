@@ -1,0 +1,13 @@
+[
+    {
+      "role": "Backend Web Developer",
+      "organisation": "Mapua University",
+      "startDate": "June 2022",
+      "endDate": "August 2022",
+      "experiences": ["School Intern for the Dean of IT", 
+      "In charge of Back-end Web Development in the Project called Mapúa Institute of Technology Retirement Fund (MITRF)", 
+      "Used Laravel PHP framework to create a web application for retirement fund loaning system for employees specifically Loan category implementation and sorting system"],
+      "imageSrc": "history/Mapua.png"
+    }
+  ]
+  
