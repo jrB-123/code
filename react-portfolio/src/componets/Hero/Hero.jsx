@@ -11,7 +11,7 @@ export const Hero = () => {
                 <div className={styles.git}>
                     <a href="https://github.com/jrB-123" className={styles.contactBtn}>Github</a>
                     <a href="https://www.linkedin.com/in/john-robert-briz-304285250/" className={styles.contactBtn}>Linkedin</a>
-                </div>
+                </div> 
             </div>
             <img src={getImageUrl("hero/heroImage.png")} alt="Hero image" className={styles.heroimg} />
             <div className={styles.topBlur} />

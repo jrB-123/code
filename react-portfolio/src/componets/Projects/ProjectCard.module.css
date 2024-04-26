@@ -24,11 +24,11 @@
     margin-bottom: 26px;
 }
 
-.git {
+/* .git {
     cursor: pointer;
     height: 2rem;
     margin-left: 10px;
-}
+} */
 
 .title {
     font-size: 25px;
@@ -73,7 +73,7 @@
     font-size: 30px;
     font-weight: 600;
     border-radius: 100px;
-    background: rgb(57, 52, 149);
+    background: rgb(0, 0, 0);
     padding: 17px 22px;
     transition: all 300ms ease;
 }
