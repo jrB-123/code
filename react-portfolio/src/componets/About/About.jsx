@@ -2,6 +2,7 @@ import React from "react";
 
 import styles from "./About.module.css";
 import { getImageUrl } from "../../utils";
+import CV from "../../../assets/nav/Briz_Resume.pdf";
 
 export const About = () => {
     return (
@@ -24,7 +25,7 @@ export const About = () => {
                         <p>Applied an Internship (OJT) in Mapua University as a Backend Developer</p>
                     </div>
                 </li>
-                
+                <a className={styles.title2} download="" href={CV}>Download Resume</a>
             </ul>
         </div>
     </section>
