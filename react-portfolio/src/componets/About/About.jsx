@@ -22,7 +22,7 @@ export const About = () => {
                     <img src={getImageUrl("about/backend.png")} alt="icon" className={styles.img} />
                     <div className={styles.aboutItemText}>
                         <h3>Backend Developer</h3>
-                        <p>Applied an Internship (OJT) in Mapua University as a Backend Developer</p>
+                        <p>Internship (OJT) in Mapua University as a Backend Developer</p>
                     </div>
                 </li>
                 <a className={styles.title2} download="" href={CV}>Download Resume</a>
