@@ -13,11 +13,13 @@ function App() {
   return (
     <div className={styles.App}>
       <Navbar />
-      <Hero />
-      <About />
-      <Experience />
-      <Projects />
-      <Contact />
+      <main>
+        <Hero />
+        <About />
+        <Experience />
+        <Projects />
+      </main>
+        <Contact />
     </div>
   );
 }
