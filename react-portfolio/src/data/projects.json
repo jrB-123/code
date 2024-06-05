@@ -3,7 +3,7 @@
       "title": "MITRF",
       "imageSrc": "projects/mitrfproject.png",
       "description": "This is a website project from Mapua University for my OJT, made from Laravel PHP Framework. A loaning app website for Mapua employees that consists of a User and Admin login system.",
-      "skills": ["Laravel", "PHP", "Node.js", "MySQL"],
+      "skills": ["Laravel", "PHP", "Node.js", "JavaScript", "MySQL"],
       "demo": "https://www.example.com",
       "source": "https://github.com/Wasabi199/MITRF-Mapua",
       "image": "projects/github.png"
@@ -21,7 +21,7 @@
       "title": "Open Electorial Records",
       "imageSrc": "projects/candidates.png",
       "description": "This is a localhost website based on an online election records. You can add, delete, update candidates. A group project done in Mapua University.",
-      "skills": ["Javascript", "Node.js", "MySQL"],
+      "skills": ["Java", "MySQL"],
       "demo": "https://www.example.com",
       "source": "https://github.com/jrB-123/Candidates",
       "image": "projects/github.png"
