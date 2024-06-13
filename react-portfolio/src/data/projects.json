@@ -9,7 +9,7 @@
       "image": "projects/github.png"
     },
     {
-      "title": "Cart-To-Go",
+      "title": "Online Grocery Shopping System",
       "imageSrc": "projects/cart.png",
       "description": "Trying to test my skills in my web programming knowledge, I made a personal project called Cart-To-Go. Cart-To-Go is a web based online grocery store where the users browse supplies and users could order and ship chosen products. This also has an admin system where the admin can add, delete, and update product records like quantity, availability, prices, etc.",
       "skills": ["HTML", "CSS", "PHP", "MySQL"],
@@ -18,16 +18,16 @@
       "image": "projects/github.png"
     },
     {
-      "title": "Open Electorial Records",
-      "imageSrc": "projects/candidates.png",
-      "description": "This is a localhost website based on an online election records. You can add, delete, update candidates. A group project done in Mapua University.",
-      "skills": ["Java", "MySQL"],
-      "demo": "https://www.example.com",
-      "source": "https://github.com/jrB-123/Candidates",
-      "image": "projects/github.png"
+      "title1": "Open Electorial Records",
+      "imageSrc1": "projects/candidates.png",
+      "description1": "This is a localhost website based on an online election records. You can add, delete, update candidates. A group project done in Mapua University.",
+      "skills1": ["Java", "MySQL"],
+      "demo1": "https://www.example.com",
+      "source1": "https://github.com/jrB-123/Candidates",
+      "image1": "projects/github.png"
     },
     {
-      "title": "Edu-Classroom",
+      "title": "LMS Website",
       "imageSrc": "projects/lms.png",
       "description": "This is a localhost website based on a learning management system (LMS). It serves as a small group project in my university.",
       "skills": ["CSS", "PHP", "MySQL","HTML"],
