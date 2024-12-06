@@ -11,7 +11,7 @@
     {
       "title": "Online Grocery Shopping System",
       "imageSrc": "projects/cart.png",
-      "description": "Trying to test my skills in my web programming knowledge, I made a personal project called Cart-To-Go. Cart-To-Go is a web based online grocery store where the users browse supplies and users could order and ship chosen products. This also has an admin system where the admin can add, delete, and update product records like quantity, availability, prices, etc.",
+      "description": "This is a University project called Cart-To-Go. Cart-To-Go is a web based online grocery store where the users browse supplies and users could order and ship chosen products. This also has an admin system where the admin can add, delete, and update product records like quantity, availability, prices, etc.",
       "skills": ["HTML", "CSS", "PHP", "MySQL"],
       "demo": "https://www.example.com", 
       "source": "https://github.com/jrB-123/cart-to-go",
